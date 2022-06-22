@@ -30,6 +30,8 @@ Create an endpoint that scrapes and returns a paginated list of popular website 
 - Provide proper unit test.
 - Use NestJS
 - Use Docker
+- Use Redis
+- Use Babel
 
 
 ## What We Care About
@@ -43,6 +45,12 @@ Here's what you should aim for:
 - Extensible code.
 
 ## FAQ
+
+### Is this a paid test?
+Yes. We will pay you up to 2 hours maximum only.
+
+### When is the deadline?
+24 hours after you receive this instruction.
 
 ### Where should I send back the result when I'm done?
 
