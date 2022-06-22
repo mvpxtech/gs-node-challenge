@@ -15,14 +15,14 @@ Create an endpoint that scrapes and returns a paginated list of popular website 
 
 ### Functionality
 
-- The API should follow typical RESTful API design pattern.
+- Should use MVC architecture
 - Provide proper API document (on README)
 - Write clear documentation on how it's designed and how to run the code (on README)
 - Write good in-code comments.
 
 ### Tech stack
 
-- Use Node.js and any framework.
+- Use Node.js or any framework.
 
 ### Bonus
 
